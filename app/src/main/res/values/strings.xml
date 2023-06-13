@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bluechat</string>
+    <string name="scan_devices">Scan thiết bị</string>
+    <string name="host">Host</string>
+    <string name="client">Client</string>
+    <string name="scan">Scan</string>
+    <string name="textview">TextView</string>
+    <string name="enable_discoverability">Khám phá</string>
+    <string name="user_info">Vui lòng chờ HOST connect tới thiết bị của bạn.</string>
+    <string name="status_active">Status: Active</string>
+    <string name="clear_chat">Xóa tin nhắn</string>
+    <string name="about">Về chúng tôi</string>
+    <string name="target">Target</string>
+    <string name="no_devices_found">Không tìm thấy thiết bị!</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter_message">Nhập tin nhắn</string>
+    <string name="send">Gửi</string>
+</resources>
